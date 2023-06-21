@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Keith</h1>
-<h3 align="center">A Loser who love developing games</h3>
+<h3 align="center">A loser who developing games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithlau&label=Profile%20views&color=0e75b6&style=flat" alt="keithlau" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/keithnulled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keithnulled" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/keith-lau-b7379b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keith-lau-b7379b217" height="30" width="40" /></a>
 <a href="https://instagram.com/nullpointinteractive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nullpointinteractive" height="30" width="40" /></a>
+<a href="https://discord.gg/keithnulled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keithnulled" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
